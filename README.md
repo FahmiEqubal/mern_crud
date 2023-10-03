@@ -4,7 +4,7 @@ Hello, I'm Equbal Fahmi, a passionate developer with a strong interest in web de
 
 ## Project: MERN CRUD Application
 
-https://github.com/FahmiEqubal/mern_crud/edit/master
+https://github.com/FahmiEqubal/mern_crud/tree/master
 
 ### Overview
 
@@ -28,7 +28,7 @@ I've developed a CRUD application using the MERN (MongoDB, Express.js, React, No
 
 You can find the source code for this project in the `master` branch of its GitHub repository:
 
-https://github.com/FahmiEqubal/mern_crud/edit/master
+https://github.com/FahmiEqubal/mern_crud/tree/master
 
 Feel free to explore the code, contribute, or raise any issues you might come across.
 
